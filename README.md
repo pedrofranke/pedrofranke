@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm an industrial engineer with a specialization i
 ## Contact
 Feel free to reach out to me for job opportunities, collaborations, or just to chat about data science and machine learning!
 
-- 📧 Email: [youremail@gmail.com](mailto:pedrofranke92@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/pedro-franke/)
+- 📧 Email: [pedrofranke92@gmail.com](mailto:pedrofranke92@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/pedro-franke/](https://www.linkedin.com/in/pedro-franke/)
 
 Thanks for visiting my profile! 😊
