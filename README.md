@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm an industrial engineer with a specialization i
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=512BD4)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 📚 &nbsp;
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
@@ -31,9 +30,11 @@ Welcome to my GitHub profile! I'm an industrial engineer with a specialization i
   ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
   ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
 - 🛢 &nbsp;
-  ![SQLServer](https://img.shields.io/badge/-SQL_Server-333333?style=flat&logo=microsoftsqlserver&logoColor=CC2927)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
+  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
   ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=googlebigquery)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - 🔧 &nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-333333?style=flat&logo=apache-hadoop)
@@ -51,6 +52,17 @@ Welcome to my GitHub profile! I'm an industrial engineer with a specialization i
 - ☁️ &nbsp;
   ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
   ![GoogleCloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud)
+
+<p align="center">
+<br/>
+
+<a href="[https://github.com/pedrofranke](https://github.com/pedrofranke)">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrofranke" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofranke" />
+</a>
+
+<br/>
+</p>
 
 ## Contact
 Feel free to reach out to me for job opportunities, collaborations, or just to chat about data science and machine learning!
