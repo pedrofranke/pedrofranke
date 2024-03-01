@@ -54,6 +54,16 @@ Welcome to my GitHub profile! I'm an industrial engineer with a specialization i
   ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
   ![GoogleCloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud)
 
+## My Projects
+
+| N° | Language | Role  | Deployment | Project  |  Client | Link |
+| ---- | --- | ---------- |---------- | --------- | ------------ |------------ |
+| 1. | Shell | **Big Data analyst** | N/A | Big Data Tools  | N/A | [Link](https://github.com/pedrofranke/Herramientas_Big_Data_SoyHenry_M4) |
+| 2. | Python/Power BI | **Data Analyst** | Power BI  | Dashboard  |Gobierno de la Ciudad BA |  [Link](https://github.com/pedrofranke/Analisis_accidentes_viales_Caba) |
+| 3. | Python | **Machine Learning Specialist** | N/A | Closeout Forecasting for Accounts | Bank | [Link](https://github.com/pedrofranke/ML_Kaggle_Competition) |
+| 4. | Python | **Machine Learning Specialist** | FastAPI |  Games Recommendation Model | Steam Games |  [Link](https://github.com/pedrofranke/Modelo_Recomendacion_SteamGames) |
+| 5. | Python | **Project Manager & ML Specialist** | Streamlit | Restaurant Analysis and Consulting Project | Investor Group | [Link](https://github.com/pedrofranke/ProyectoFinal-Henry) |
+
 <p align="center">
 <br/>
 
