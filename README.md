@@ -5,13 +5,11 @@ Welcome to my GitHub profile! I'm an industrial engineer with a specialization i
 </p>
 
 ## About Me
-<p align='justify'>
 - 💼 I'm currently seeking job opportunities in the field of data analysis and machine learning.
 - 🎓 I graduated as an industrial engineer and then completed a specialization in data analysis and machine learning with an intensive course at [Henry](https://www.soyhenry.com/).
 - 👨‍💻 I have over 5 years of experience working with data analysis, diagnostics, root cause analysis, and continuous improvement implementation across various industrial sectors in both analytics and leadership positions.
 - 🌱 I'm constantly learning and enhancing my skills in data science and machine learning.
 - 🔍 I'm very detail-oriented, ensuring thorough analysis and precise problem-solving while keeping track of priorities to meet requested dates.
-</p>
 
 ## My Interests
 - 🤖 Machine Learning: I love exploring and applying machine learning models to solve real-world problems.
