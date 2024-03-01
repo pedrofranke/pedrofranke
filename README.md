@@ -78,5 +78,5 @@ Welcome to my GitHub profile! I'm an industrial engineer with a specialization i
 ## Contact
 Feel free to reach out to me for job opportunities, collaborations, or just to chat about data science and machine learning!
 
-- [![email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)]: [pedrofranke92@gmail.com](mailto:pedrofranke92@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]: [https://www.linkedin.com/in/pedro-franke/](https://www.linkedin.com/in/pedro-franke/)
+- ![email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white): [pedrofranke92@gmail.com](mailto:pedrofranke92@gmail.com)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white): [https://www.linkedin.com/in/pedro-franke/](https://www.linkedin.com/in/pedro-franke/)
