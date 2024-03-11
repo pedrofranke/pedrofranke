@@ -1,4 +1,4 @@
-# Hello there! 👋 I'm Pedro Franke
+# Hello!! I'm Pedro Franke
 
 <p align='justify'>
 Welcome to my GitHub profile! I'm an industrial engineer with a specialization in Data Analysis and Machine Learning. After several years working with data, I realized that my best strategic decisions were data-driven, and, most importantly, my passion was to explore data to analyze, visualize, and support my decisions. This realization motivated me to take my coding skills to the next level and embark on a code-oriented Data Science career.
